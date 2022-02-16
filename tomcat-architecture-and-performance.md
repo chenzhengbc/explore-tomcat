@@ -1,8 +1,6 @@
 ## Tomcat Architecture
 
-![tomcat-architecuture](tomcat-architecture.png)
-
-
+![tomcat-architecuture](https://raw.githubusercontent.com/chenzhengbc/md-images/develop/uPic/tomcat-architecture.png)
 
 ## Tomcat Connector
 
